@@ -1,4 +1,4 @@
-1) resnet.py: Resnet architecture to detect cracks in solar cells.
+1) resnet.py: Resnet architecture to detect cracks in solar cells using TensorFlow.
 
 Explanation:
 
